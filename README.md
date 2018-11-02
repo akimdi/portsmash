@@ -1,6 +1,7 @@
 News 
 https://www.opennet.ru/opennews/art.shtml?num=49543
 https://seclists.org/oss-sec/2018/q4/att-123/spy_zip.bin
+https://habr.com/post/428544/
 
 # Summary
 
