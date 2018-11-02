@@ -1,3 +1,7 @@
+News 
+https://www.opennet.ru/opennews/art.shtml?num=49543
+https://seclists.org/oss-sec/2018/q4/att-123/spy_zip.bin
+
 # Summary
 
 This is a proof-of-concept exploit of the PortSmash microarchitecture attack, tracked by CVE-2018-5407.
